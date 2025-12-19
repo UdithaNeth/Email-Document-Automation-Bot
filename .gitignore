@@ -1,0 +1,66 @@
+# .gitignore for Email & Document Automation Bot
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Downloaded files
+Downloads/
+!Downloads/.gitkeep
+
+# C# / .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.cache
+*.suo
+*.vs/
+.vscode/
+*.csproj.user
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Processed hashes
+.processed_hashes.txt

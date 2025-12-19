@@ -1,0 +1,5 @@
+# Email & Document Automation Bot - Python Dependencies
+# Note: imaplib and email are part of Python standard library
+
+# Optional: For .env file support (if using .env instead of environment variables)
+python-dotenv==1.0.0
